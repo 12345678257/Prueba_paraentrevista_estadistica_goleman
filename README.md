@@ -1,0 +1,2 @@
+# Prueba_paraentrevista_estadistica_goleman
+Prueba de conocimiento
